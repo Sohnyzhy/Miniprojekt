@@ -1,0 +1,38 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 200px;
+    padding-left: 200px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+   
+
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+a:hover{
+    color: orange;
+}
